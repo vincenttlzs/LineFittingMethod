@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -std=c++11 -O3 -O3 -DNDEBUG  -shared -Wl,-soname,libmethod.so -o libmethod.so CMakeFiles/method.dir/src/dbot.cpp.o 
